@@ -1,11 +1,11 @@
-About expandvars
-================
+About expandvars-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/expandvars-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/sayanarijit/expandvars
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/expandvars-feedstock/blob/main/LICENSE.txt)
 
 Summary: Expand system variables Unix style
 
